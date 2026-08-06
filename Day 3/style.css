@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "bit";
+    src: url(LibertinusMath-Regular.ttf);
+}
+
+
+
+
+h1{
+    color:rgb(233, 70, 70);
+    font-family: "bit";
+}
+.outer{
+    font-size:2pc;
+}
+.inner{
+    font-size:2em;
+}

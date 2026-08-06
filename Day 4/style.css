@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "hindi";
+    src: url("krutidev-010-hindi-font-download.ttf");
+}
+h1{
+    color:rgb(250, 83, 54);
+    font-family: "hindi";
+    
+}
